@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AbrarAshraf20
+- 👋 Hi, I’m Abrar Ashraf
 - 👀 I’m interested in Electronics and PCB designs.
 - 🌱 I’m currently learning High Speed PCB designs 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @AbrarAshraf20s
 
 <!---
 AbrarAshraf20/AbrarAshraf20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
